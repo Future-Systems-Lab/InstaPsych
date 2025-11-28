@@ -1,7 +1,7 @@
 <!-- Rights Reserved, Unlicensed -->
 
 <p align="center">
-  <img src="./assets/InstaPsych_banner.png" alt="InstaPsych System" width="900">
+  <img src="./assets/InstaPsych_banner.png" alt="InstaPsych System" width="600">
 </p>
 
 
