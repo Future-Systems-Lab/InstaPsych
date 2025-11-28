@@ -4,118 +4,123 @@
   <img src="./assets/InstaPsych_banner.png" alt="InstaPsych System" width="600">
 </p>
 
-
 # 🧠 InstaPsych System  
-Precision Sensory-Pattern Emotional Regulation
+A User-Input Pattern Interface for Adaptive Sensory Design
 
-InstaPsych is a sensory-regulation prototype that converts user-selected sensations into adaptive hypnotic protocols.  
-There are **no emotional labels**, **no diagnostics**, and **no interpretation**.  
-The system uses a **psychophysiological mapping model** to detect patterns and match them to sound frequencies, visual entrainment fields, and short linguistic micro-interventions.
+InstaPsych is an applied informatics prototype that explores how simple user-input sensations can drive dynamic changes in audiovisual experience. Designed as a non-clinical, sensation-first interface, the system focuses on interaction design, pattern detection, and real-time sensory personalization.
 
-The goal is **instant state-matching** with a simple, non-clinical experience.
+The prototype integrates principles from behavioral design, user-experience research, and immersive interface design to create a fast, lightweight experience centered around visual entrainment, sound modulation, and micro-interaction flow.
+
+
 
 ---
 
 ## 🔍 Interaction Flow
 
-### 1. Multi-Sensation Check-In  
-Users select plain-language sensations from three domains:
+### **1. Sensation Check-In**  
+Users select clear, everyday sensations from three domains:
 
-**Body:** fast heartbeat • tightness • drained • heavy • restless  
-**Mind:** racing • foggy • looping • flat • unfocused  
-**Experience:** overloaded • detached • keyed-up • withdrawn • overstimulated  
+**Body:** tightness • heavy • restless • drained  
+**Mind:** foggy • racing • looping • unfocused  
+**Experience:** overloaded • detached • withdrawn • overstimulated  
 
-Multiple selections allowed.
+The language is intentionally plain so users do not need emotional insight or clinical vocabulary.
 
-### 2. Micro-Questions  
-The system asks 1–2 clarifiers only when needed:
+---
+
+### **2. Micro-Question**  
+A single clarifier appears only when required to refine the sensory pattern:
 
 - “Mind moving fast or slow?”  
-- “Does this feel more physical or mental?”  
-- “Silence, voice, or both?”
+- “Mind in past or future?”  
 
-### 3. Hidden Pattern Mapping  
-Behind the scenes, selections map to internal regulation pathways:
+This keeps the experience lightweight and intuitive.
 
-- dopamine  
-- serotonin  
-- GABA  
-- endorphin  
-- endocannabinoid  
+---
 
-These neurochemical pathways never appear in the UI.  
-All mapping is non-diagnostic and sensory-only.
+### **3. Internal Pattern Mapping**  
+User selections are translated into internal pattern families rooted in behavioral science and sensory design.  
+These patterns guide the choice of sound, color, and visual pacing.  
+All mapping happens internally—the interface stays sensation-only and non-diagnostic
+
+This approach aligns with practitioner-level hypnotic methodology and informatics-driven decision design.
 
 ---
 
 ## 🎧 Mode Selection
 
-### **Reflective Hypnosis Mode**  
-Silent or near-silent protocols relying on visual entrainment:
+### **Reflective Mode (Visual Hypnosis)**  
+A minimal, quiet mode built around entrainment visuals:
 
 - starfields  
 - auroras  
-- slow geometric pulses  
+- geometric pulses  
 - kaleidoscopic morphs  
-- the InstaPsych seal with rhythmic binary glow  
+- binary-glow seal animations  
 
-### **Verbal Mode**  
-AI transforms the user’s selected sensations into simple, friendly phrasing and delivers:
+Designed to guide attention inward and facilitate sensory reorganization.
 
-- reframes  
+---
+
+### **Verbal Mode (AI-Generated Language)**  
+The system generates short, supportive linguistic cues based on the sensations chosen:
+
 - mantras  
+- micro-reframes  
 - adaptive responses  
-- tone modeled from DISC-style patterns  
+
+Tone shaping draws from communication-pattern modeling, offering a practitioner-aligned style without therapeutic claims.
 
 ---
 
 ## 🌈 Sensory Engine
 
-### **Audio Profiles (Hz)**  
-Automatically chosen based on the detected psychophysiological pattern:
+### **Audio (Hz) Profiles**  
+Automatically selected tones designed for calming, grounding, awakening, or softening responses.
 
-- Calming  
-- Grounding  
-- Awakening  
-- Softening  
-
-### **Color Therapy**  
-Subtle visual biasing based on the user’s arousal level and internal pattern family.
+### **Color Fields**  
+Gentle arousal-based tinting aligns with the user’s moment without labeling emotion.
 
 ### **Visual Entrainment**  
-Purpose-built hypnotic fields that support attentional quiet and sensory coherence.
+Hypnotic fields built to support attentional quiet, coherence, and internal stability.
 
 ---
 
-# ♻️ Sustainable Hardware Design
+# ♻️ Sustainable Hardware Exploration
 
-### **Eco-Composite Case**  
-The optional wearable charging case is engineered for sustainability:
+InstaPsych includes a conceptual wearable case that reflects naturopathic and eco-design principles:
 
-- **Hemp-fiber composite shell**  
-- **Bamboo-charcoal black pigmentation** (naturally matte, non-toxic)  
-- **Plant-based inks**  
-- **Low-impact manufacturing inputs**  
+### **Eco-Composite Materials**  
+- hemp-fiber composites  
+- bamboo-charcoal pigmentation (matte, non-toxic)  
+- plant-based inks  
+- reduced-impact manufacturing inputs  
 
 ### **Solar-Assisted Lid**  
-A thin photovoltaic layer on the lid decreases reliance on wall charging and aligns the device with low-energy, nature-centered design principles.
+A thin photovoltaic surface reduces reliance on wall charging.
 
-### **Biodegradable Color Layering**  
-Natural mineral and bamboo-derived tints create the InstaPsych palette without synthetic dyes.
+### **Biodegradable Color Layers**  
+Mineral- and bamboo-based tints create the InstaPsych palette without synthetic dyes.
 
 ---
 
-## 🧩 System Philosophy  
-InstaPsych does not attempt to understand emotion.  
-It identifies **sensations → patterns → protocols**, allowing the nervous system to reorganize itself.
+## 🧩 Design Philosophy  
+InstaPsych supports **sensation → pattern → protocol**, rather than emotion → meaning.  
+No analysis, no diagnosis—only responsive sensory organization through design.
 
-All change is internal; InstaPsych simply aligns to the user’s moment.
+All transformation occurs internally; the interface simply aligns with the user’s moment.
+
+---
+
+## 🎥 Live Demo  
+InstaPsych Prototype Walkthrough:  
+[InstaPsych Demo Video](https://youtube.com/shorts/hALQEnDKW8U)
 
 ---
 
 ## 📦 Status  
 Prototype in progress.  
-Core sensory-pattern mapping, entrainment engine, and sustainable hardware concepts are complete.
+Central sensory-pattern logic, audiovisual engine, and sustainable hardware concepts are complete.
 
 ---
 
